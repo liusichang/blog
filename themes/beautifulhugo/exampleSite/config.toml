@@ -1,6 +1,4 @@
-baseurl = "https://broccoli1002.github.io"
-# baseurl = "https://username.github.io"
-
+baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
